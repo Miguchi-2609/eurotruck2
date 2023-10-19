@@ -2,7 +2,7 @@ SiiNunit
 {
 live_stream_def : _nameless.216.4bb6.f1f0 {
  stream_data: 194
- stream_data[0]: "http://103.252.90.134:8000/stream/radio.mp3|Pixel Radio|Various|FR|128|0"
+ stream_data[0]: "http://103.252.90.134:8000/stream|Pixel Radio|Various|FR|128|0"
  stream_data[1]: "https://radio.rtbf.be/lapremiere/mp3-160/me|La Premiere|RTBF|FR|320|0"
  stream_data[2]: "https://radio.bigrig.fm/|BigRig FM|Country|EN|320|0"
  stream_data[3]: "http://radio.trucksim.fm:8000/stream|TruckSimFM|Sim radio|EN|320|0"
